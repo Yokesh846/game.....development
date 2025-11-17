@@ -1,6 +1,5 @@
 # EX 10 : ANIMATION USING FLASH
 
-
 ## AIM
   
   To create a motion tweening, shape tweening, guide layer and masking using Flash.
@@ -65,3 +64,4 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+<img width="820" height="801" alt="507039830-3d8c11bd-f07b-4bea-8aed-f26b646ac012" src="https://github.com/user-attachments/assets/0caab5db-02f0-4016-8849-6e20fc91186c" />
